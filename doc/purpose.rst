@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Add documentation related to other functions
+Add fgggdocumentation related to other functions
 
 Prerequisites and how to use the program
 
