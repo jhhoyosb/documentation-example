@@ -48,3 +48,7 @@ Meta
 
 - Add new exercises ideas for future workshops (edit this file).
 - Hola como te llamas
+
+```{math}
+a^2 + b^2 = c^2
+```
